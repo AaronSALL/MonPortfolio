@@ -1,0 +1,58 @@
+#background {
+    background-image:url("Images/ArrièrePlanProjets.webp");
+      }
+
+footer {
+            
+            bottom: 0px;
+            width: 100%;
+            color : black;
+            background-color : white;
+      }
+
+#barre {
+        background-color: #FFFFFF;
+       }
+       
+#fond {
+            color: black;
+            background-color : white;
+      }
+
+#href {
+        color: black;
+  }
+  
+#mention {
+        color: black;
+    }
+
+#accueil {
+            color: orangered;
+            font-size: 26px;
+        }
+  
+#profil {
+            color: palevioletred;
+            font-size: 26px;
+        }
+  
+#projets {
+              color: lightseagreen;
+              font-size: 26px;
+          }
+  
+#veille {
+              color: darkgreen;
+              font-size: 26px;
+          }
+  
+#stages {
+              color: goldenrod;
+              font-size: 26px;
+          }
+  
+#contact {
+              color: indigo;
+              font-size: 26px;
+          }

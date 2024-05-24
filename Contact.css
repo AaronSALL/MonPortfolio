@@ -1,0 +1,57 @@
+#background {
+      background-image:url("Images/ArrièrePlanContact.jpg");
+      }
+
+      footer {
+            position: absolute;
+            bottom: 0px;
+            width: 100%;
+            color : black;
+            background-color : white;
+      }
+
+      #fond {
+            background-color: white;
+            color : black;
+      }
+
+#barre {
+      background-color: #FFFFFF;
+     }
+
+.contact{
+      position:absolute;
+      left:50%;
+      top:50%;
+      
+}
+
+#accueil {
+      color: orangered;
+      font-size: 26px;
+  }
+
+#profil {
+      color: palevioletred;
+      font-size: 26px;
+  }
+
+#projets {
+        color: lightseagreen;
+        font-size: 26px;
+    }
+
+#veille {
+        color: darkgreen;
+        font-size: 26px;
+    }
+
+#stages {
+        color: goldenrod;
+        font-size: 26px;
+    }
+
+#contact {
+        color: indigo;
+        font-size: 26px;
+    }

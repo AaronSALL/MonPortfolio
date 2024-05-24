@@ -1,0 +1,44 @@
+body{
+      background-image:url("Images/ArrièrePlanAccueil.jpg");
+background-position: top center;
+background-size: cover;
+      
+      }
+
+#barre {
+       background-color: #FFFFFF;
+}
+
+#message{
+          color: #FFFFFF;
+      }
+
+#accueil {
+          color: orangered;
+          font-size: 26px;
+      }
+
+#profil {
+          color: palevioletred;
+          font-size: 26px;
+      }
+
+#projets {
+            color: lightseagreen;
+            font-size: 26px;
+        }
+
+#veille {
+            color: darkgreen;
+            font-size: 26px;
+        }
+
+#stages {
+            color: goldenrod;
+            font-size: 26px;
+        }
+
+#contact {
+            color: indigo;
+            font-size: 26px;
+        }
